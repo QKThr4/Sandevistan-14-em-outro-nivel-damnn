@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " N ",
+    " E ",
+    " A "
+  ],
+  "key": {
+    "N": {
+      "item": "sandevistan:neuralink_falcon"
+    },
+    "E": {
+      "item": "sandevistan:espinha_falcon"
+    },
+    "A": {
+      "item": "sandevistan:acelerador_falcon"
+    }
+  },
+  "result": {
+    "id": "sandevistan:sandevistan_falcon",
+    "count": 1
+  }
+}

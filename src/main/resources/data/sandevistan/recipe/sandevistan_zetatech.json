@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " N ",
+    " E ",
+    " A "
+  ],
+  "key": {
+    "N": {
+      "item": "sandevistan:neuralink_zetatech"
+    },
+    "E": {
+      "item": "sandevistan:espinha_zetatech"
+    },
+    "A": {
+      "item": "sandevistan:acelerador_zetatech"
+    }
+  },
+  "result": {
+    "id": "sandevistan:sandevistan_zetatech",
+    "count": 1
+  }
+}

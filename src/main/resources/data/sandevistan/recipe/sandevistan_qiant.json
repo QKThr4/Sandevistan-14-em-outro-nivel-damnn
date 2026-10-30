@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " N ",
+    " E ",
+    " A "
+  ],
+  "key": {
+    "N": {
+      "item": "sandevistan:neuralink_qiant"
+    },
+    "E": {
+      "item": "sandevistan:espinha_qiant"
+    },
+    "A": {
+      "item": "sandevistan:acelerador_qiant"
+    }
+  },
+  "result": {
+    "id": "sandevistan:sandevistan_qiant",
+    "count": 1
+  }
+}

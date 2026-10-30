@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DND",
+    "GXG",
+    "BAB"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "N": {
+      "item": "sandevistan:neuralink"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "X": {
+      "item": "sandevistan:espinha"
+    },
+    "B": {
+      "item": "minecraft:emerald_block"
+    },
+    "A": {
+      "item": "sandevistan:acelerador"
+    }
+  },
+  "result": {
+    "id": "sandevistan:sandevistan",
+    "count": 1
+  }
+}

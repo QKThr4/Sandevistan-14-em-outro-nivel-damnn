@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "sandevistan:chipware"
+    },
+    {
+      "item": "sandevistan:estabilizador_neural"
+    },
+    {
+      "item": "minecraft:shield"
+    },
+    {
+      "item": "sandevistan:cristal_neural"
+    }
+  ],
+  "result": {
+    "id": "sandevistan:chip_supressao_dor",
+    "count": 1
+  }
+}

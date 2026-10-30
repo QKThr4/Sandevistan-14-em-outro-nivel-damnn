@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IPI",
+    "ISI",
+    "IBI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "S": {
+      "item": "sandevistan:servo_motor"
+    },
+    "B": {
+      "item": "sandevistan:bateria_energia"
+    }
+  },
+  "result": {
+    "id": "sandevistan:braco_ferro",
+    "count": 1
+  }
+}

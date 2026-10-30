@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " N ",
+    " E ",
+    " A "
+  ],
+  "key": {
+    "N": {
+      "item": "sandevistan:neuralink_dynalar"
+    },
+    "E": {
+      "item": "sandevistan:espinha_dynalar"
+    },
+    "A": {
+      "item": "sandevistan:acelerador_dynalar"
+    }
+  },
+  "result": {
+    "id": "sandevistan:sandevistan_dynalar",
+    "count": 1
+  }
+}

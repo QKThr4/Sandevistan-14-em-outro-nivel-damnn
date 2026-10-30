@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "FCF",
+    "GKG",
+    "FCF"
+  ],
+  "key": {
+    "F": {
+      "item": "sandevistan:fibra_sinaptica"
+    },
+    "C": {
+      "item": "sandevistan:cristal_neural"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "K": {
+      "item": "sandevistan:chip"
+    }
+  },
+  "result": {
+    "id": "sandevistan:sistema_nervoso",
+    "count": 1
+  }
+}

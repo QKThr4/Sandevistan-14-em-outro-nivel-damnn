@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "sandevistan:chipware"
+    },
+    {
+      "item": "minecraft:iron_boots"
+    },
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "minecraft:prismarine_shard"
+    },
+    {
+      "item": "sandevistan:servo_motor"
+    }
+  ],
+  "result": {
+    "id": "sandevistan:chip_andarilho",
+    "count": 1
+  }
+}

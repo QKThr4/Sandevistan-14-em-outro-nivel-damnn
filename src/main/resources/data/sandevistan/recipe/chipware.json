@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GCG",
+    "RKR",
+    "GFG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "C": {
+      "item": "sandevistan:chip"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "K": {
+      "item": "sandevistan:cristal_neural"
+    },
+    "F": {
+      "item": "sandevistan:fibra_sinaptica"
+    }
+  },
+  "result": {
+    "id": "sandevistan:chipware",
+    "count": 1
+  }
+}

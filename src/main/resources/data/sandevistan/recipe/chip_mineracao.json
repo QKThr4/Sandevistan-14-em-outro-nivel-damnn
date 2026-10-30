@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "sandevistan:chipware"
+    },
+    {
+      "item": "minecraft:iron_pickaxe"
+    },
+    {
+      "item": "sandevistan:servo_motor"
+    },
+    {
+      "item": "sandevistan:nucleo"
+    }
+  ],
+  "result": {
+    "id": "sandevistan:chip_mineracao",
+    "count": 1
+  }
+}
